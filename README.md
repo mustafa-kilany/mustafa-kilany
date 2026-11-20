@@ -3,8 +3,6 @@
 **Full-Stack Application Developer & Tax Technology Specialist**  
 Building applications and automating data, systems, and tax workflows across Jordan and MENA.
 
-- **MENA AI Champion** recognition for applied AI and technology innovation
-- **Top 4 finish**, EY Tax Hackathon (MENA)
 - Full-stack delivery across React Native, Express.js, Laravel, Python, SQL, and modern cloud systems
 
 ## Technology
